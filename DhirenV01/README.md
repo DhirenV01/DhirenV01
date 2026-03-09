@@ -1,4 +1,4 @@
-# Hey, I'm Dhiren 👋
+# Hey, I'm Dhiren
 
 **Software Engineer** building at the intersection of AI, data, and cloud infrastructure.
 
